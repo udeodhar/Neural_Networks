@@ -1,8 +1,8 @@
 ###########################################################################################
 #Title		: Implementation of Neural Networks using Python. 
 #Author		: Unmesh Mahendra Deodhar
-#Description: It is the implementation of Neural Networks. Trained MNIST data for detecting
-#			  handwritten digits. Achieved accuracy around 95%.
+#Description	: It is the implementation of Neural Networks. Trained MNIST data for detecting
+#		  handwritten digits. Achieved accuracy around 95%.
 ###########################################################################################
 
 import numpy as np
